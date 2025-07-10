@@ -7,6 +7,9 @@
 }
 nwespaper();*/
 
+//      Question 2
+    
+
 
 //Quetion 5
 /*
