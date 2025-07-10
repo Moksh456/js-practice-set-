@@ -1,4 +1,4 @@
-//random color generator web app
+/*//random color generator web app
 console.log("Script.js initializing")
 // let boxes = document.getElementsByClassName("box")
 let boxes = document.querySelector(".container").children
@@ -12,5 +12,5 @@ function getRandomColor(){
 }
 Array.from(boxes).forEach(f=>{
     f.style.backgroundColor = getRandomColor()
-    f.style.color = getRandomColor()
-})
+    f.style.color = getRandomColor() 
+})*/

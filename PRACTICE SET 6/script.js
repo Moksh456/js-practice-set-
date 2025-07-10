@@ -4,12 +4,12 @@
     if(b>18){console.log("your can drive")
     }
     else{ console.log("you can not drive")}
-}
+} 
 nwespaper();*/
 
 //      Question 2
     
-
+ 
 
 //Quetion 5
 /*
