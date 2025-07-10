@@ -13,4 +13,8 @@ nwespaper();*/
 function back(){
     let c = prompt("enter the color");
     document.body.style.background = b
-}*/
+}
+back();    
+*/
+
+
