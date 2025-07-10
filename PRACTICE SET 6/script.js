@@ -1,8 +1,16 @@
-prompt("enter your age");
+//quetion 1
+/*function nwespaper(age){
+    let b = prompt("enter your age");
+    if(b>18){console.log("your can drive")
+    }
+    else{ console.log("you can not drive")}
+}
+nwespaper();*/
 
-if(prompt<18){
-    console.log("you are eligble for the dirving")
-}
-else{
-     console.log(" OH!!! SHIT!! you are not eligble for the dirving")
-}
+
+//Quetion 5
+/*
+function back(){
+    let c = prompt("enter the color");
+    document.body.style.background = b
+}*/
