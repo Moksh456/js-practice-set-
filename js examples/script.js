@@ -1,4 +1,5 @@
- console.log("Script.js initializing")
+//random color generator web app
+console.log("Script.js initializing")
 // let boxes = document.getElementsByClassName("box")
 let boxes = document.querySelector(".container").children
 
